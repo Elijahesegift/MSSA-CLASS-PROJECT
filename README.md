@@ -22,3 +22,5 @@ User will be able to input or pull data from Real Estate listing website and let
 User will be able to add knowlege about investing and real estate. Real estate agent will also be able to add there listing.
 #  User Stories
 I just started to get into investing and Real Estate there is many way to invest and earn money. I want to be able to create application where people can share there investment knowlege and learn from it.
+#  UML
+![enter image description here](https://github.com/Elijahesegift/MSSA-CLASS-PROJECT/blob/master/assets/DML.pdf)
