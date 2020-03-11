@@ -93,6 +93,7 @@ The user then will be taken to the knowledge and walk through step
 4.3 Test ID# 1.3 Verify connection with SQL server.
 
 4.4 Test ID# 1.4 Validate all input from the database for proper assigning of maintenance codes.
+![DML](assets/RTM.png)
 
 
 
