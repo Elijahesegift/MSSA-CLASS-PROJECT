@@ -42,5 +42,59 @@ The user will get a return amount of money that will be earning and needed to ru
 ### Requirments 5
 The user then will be taken to the knowledge and walk through step  
 
+## User
+
+1.0 shall acknowledge consent and click the button.
+
+1.0.1 shall click the login button.
+
+1.1 shall enter a Username for authentication.
+
+1.2 shall enter the assigned password with its Username
+
+1.3 Can view reports.
+
+1.4 Can use the calculator
+
+1.5 can view knowledge
+
+## System
+
+2.0 Authenticate User
+
+2.1 Verify input username
+
+2.2 Verify Password match with the username
+
+## Software
+
+3.0 Requirement will be implemented using an online platform
+
+3.1 List of software that will be used are the following:
+
+3.1.1 ASP.NET
+
+3.1.2 SQL
+
+3.1.3 C#
+
+3.1.4 Javascript Object Notation(JSON)
+
+3.1.5 Hosting Platform like Mypage.com
+
+## Testing
+
+4.0 Test ID#1.0 inspection test for the clicked button before showing the login page.
+
+4.1 Test ID#1.1 Use Entity Validation to check the username to match if there is an account on the database.
+
+4.2 Test ID# 1.2 Use Entity Validation to check the password to match if there is an account on the database.
+
+4.3 Test ID# 1.3 Verify connection with SQL server.
+
+4.4 Test ID# 1.4 Validate all input from the database for proper assigning of maintenance codes.
+
+
+
 
 
