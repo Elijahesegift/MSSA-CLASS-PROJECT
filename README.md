@@ -17,8 +17,9 @@
 
 This appliction will make your real estate investing life easier. it will equip you with a real estate calculator. This app will also give you knowlage about real estates.
 
+
 ## Basic feature
-User will be able to input or pull data from Real Estate listing website and let the user out the information into my personnal real estate computer 
+User will be able to input or pull data from Real Estate listing website and let the user take out the information into my personnal real estate computer 
 
 
 ## Future feature
