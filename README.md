@@ -27,7 +27,8 @@ I just started to get into investing and Real Estate there is many way to invest
 # Entity Relationship Diagram
 ![DML](assets/DML.png)
 # initial Wirefram Sketches
-![DML](assets/DML.png)
+![DML](assets/IMG_4061.jpg)
+![DML](assets/IMG_4062.jpg)
 
 ## Requirments
 
