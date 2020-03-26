@@ -25,7 +25,7 @@ I just started to get into investing and Real Estate there is many way to invest
 #  UML
 ![DML](assets/DML.png)
 # Entity Relationship Diagram
-![DML](assets/DML.png)
+![DML](assets/Annotation%202020-03-25%20220443.png)
 # initial Wirefram Sketches
 ![DML](assets/IMG_4061.jpg)
 ![DML](assets/IMG_4062.jpg)
