@@ -9,8 +9,6 @@
 6.  [Entity Relationship Diagram]
 7.  [Wire-Frame Sketches]
 8.  [Requirements]
-9.  [Requirements]
-9. [Requirements]
 9. [Prototype]
  
 #  Concept Description
