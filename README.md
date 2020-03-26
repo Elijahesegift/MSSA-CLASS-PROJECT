@@ -3,7 +3,7 @@
 
 1.  [Concept Description]
 2.  [User Stories]
-3.  [Use-Case](
+3.  [Use-Case]
 4.  [UML Diagram]
 5.  [Scenario]
 6.  [Entity Relationship Diagram]
@@ -23,6 +23,10 @@ User will be able to add knowlege about investing and real estate. Real estate a
 #  User Stories
 I just started to get into investing and Real Estate there is many way to invest and earn money. I want to be able to create application where people can share there investment knowlege and learn from it.
 #  UML
+![DML](assets/DML.png)
+# Entity Relationship Diagram
+![DML](assets/DML.png)
+# initial Wirefram Sketches
 ![DML](assets/DML.png)
 
 ## Requirments
