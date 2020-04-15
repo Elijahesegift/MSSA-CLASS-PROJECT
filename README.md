@@ -108,7 +108,7 @@ The user then will be taken to the knowledge and walk through step
 ![DML](assets/1.png)
 # database
 ![DML](assets/project%20step12.png)
-![DML](assets/1.png)
+![DML](assets/projectstep%2012.1.png)
 ![DML](assets/1.png)
 
 
