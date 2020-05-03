@@ -112,9 +112,9 @@ The user then will be taken to the knowledge and walk through step
 # project step 15
 ![DML](assets/day2.png)
 ![DML](assets/day4.png)
-![DML](assets/day5.png)
+![DML](/assets/day%205.png)
 
-![DML](assets/day6.png)
+![DML](/assets/day%206.png)
 
 ![DML](assets/sprintchart.png)
 
