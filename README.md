@@ -53,7 +53,7 @@ The user then will be taken to the knowledge and walk through step
 
 ## test
 
-## User
+### User
 
 1.0 shall acknowledge consent and click the button.
 
@@ -69,7 +69,7 @@ The user then will be taken to the knowledge and walk through step
 
 1.5 can view knowledge
 
-## System
+### System
 
 2.0 Authenticate User
 
@@ -77,7 +77,7 @@ The user then will be taken to the knowledge and walk through step
 
 2.2 Verify Password match with the username
 
-## Software
+### Software
 
 3.0 Requirement will be implemented using an online platform
 
@@ -93,7 +93,7 @@ The user then will be taken to the knowledge and walk through step
 
 3.1.5 Hosting Platform like Mypage.com
 
-## Testing
+### Testing
 
 4.0 Test ID#1.0 inspection test for the clicked button before showing the login page.
 
